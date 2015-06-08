@@ -9,7 +9,7 @@ Describe what's happening in each of the files below
 - `download_historical.py`
 - `historical_crime.py`
 - `calc_and_plot.py`
-- `daily-data.py`
+- `daily_data.py`
 
 ## References:
 
